@@ -1,0 +1,2 @@
+Error de sintaxis en una declaración
+

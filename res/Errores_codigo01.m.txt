@@ -1,3 +1,0 @@
-Error de sintaxis en una asignación
-Línea: 1 Columna: 3
-

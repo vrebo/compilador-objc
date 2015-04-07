@@ -1,21 +1,48 @@
-#import <Foundation.h>
+#import Foundation>
+#import <>
+#import <Foundation>
 
-int main(int argc, const char argv[]) {
+int var;
+BOOL var2, var3;
+float var2, var3 = 23.3;
+float var2, ;
+float var2, var = var;
+float var2,  = 34;
 
-        NSString *figura = @"Triangulo";
+void funcion(int s, s, float y);
+
+void funcion();
+
+void funcion(,);
+
+void funcion(,int y);
+
+void funcion(int y, y, float u, y);
+
+int main() {
+
+        NSString figura = @"Triangulo";
         metodo();
-        NSLog(@"%@", figura);
+        metodo();
 
         int base = 15;
 
-        int altura = 20
+        int altura = 20;
 
         float area ;
 
         int codigoColor = 0;
 
-        NSString *color;
+        NSString color;
 
+        if(a)
+            
+        if 6<5)
+                                
+        if()
+            
+        if(a
+                
         if (area < 120) {
 
             NSLog(3);
@@ -25,6 +52,18 @@ int main(int argc, const char argv[]) {
             NSLog(555);
 
         }
+        
+        while
+        
+        while()
+            
+        while)
+         
+        while(
+        
+        while a < a)
+         
+        while (a < a
 
         while (area / 2 > 0 && true) {
 
@@ -45,43 +84,103 @@ int main(int argc, const char argv[]) {
                 area -= 2;
 
                 codigoColor = 3;
-
+                --codigoColor;
             }
 
         }
 
-        switch (codigoColor) {
+        switch (codigoColor {
 
-            case 1:
+            case 4:
 
                 color = @"Rojo";
 
                 break;
 
-            case 2:
+            :
 
                 color = @"Azul";
 
                 break;
 
-            case 3:
+            case :
 
                 color = @"Verde";
 
                 break;
 
-            default:
+            case 4:
+                color = @"Verde";
+
+                break;
+                
+            default
 
                 color = @"Negro";
 
                 break;
 
         }
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while(a<b);
 
+        do
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        while(a<b);
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while();
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while(a + b;
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while a + b);
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while );
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while (;
+        
+        do{
+            NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
+        }while ;
+        
+        
+        for(int i = 0; a < b; i++){
+            
+        }
+        
+        for(int i = 0 a < b; i++){
+            
+        }
+        
+        for(int i = 0 ; a < b i++){
+            
+        }
+        
+        for(int i = 0  a < b i++){
+            
+        }
+        
+        for(int i = 0 ; a < b ; i++{
+            
+        }
+        
+        //for int i = 0 ; a < b ; i++{} //Problema con el manejo de este error
+        
         NSLog(@"La figura es un %@, y su color definido es %@", figura, color);
 
     //}
 
     return 0;
-
+    
 } 
